@@ -1,2 +1,2 @@
 # CoffeMachine
-Coffe Machine System
+A Coffe Machine System
